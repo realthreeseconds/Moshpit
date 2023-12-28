@@ -1,0 +1,12 @@
+# Permission to only use either the command or item
+permission_use: 'superjump.use'
+
+# Permission for the staff-team to give out SuperJump and see every activity
+permission_team: 'superjump.team'
+
+# Duration of the SuperJump in seconds
+duration: 5
+
+# Item Material, pay attention and use the correct material names
+# otherwise 'DIAMOND' will be set as the default item
+material: 'NETHER_STAR'
