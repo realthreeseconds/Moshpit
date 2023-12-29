@@ -30,7 +30,6 @@ public class SuperJump extends JavaPlugin {
 
     private void init() {
 
-        this.saveResource("config.yml", true);
         this.saveDefaultConfig();
         this.superJumpConfig = new SuperJumpConfig(this.getConfig());
 
